@@ -9,7 +9,8 @@ randomly generated number.
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot]
+<img src="screenshot-game.png">
 
   
 ## Demo
